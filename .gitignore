@@ -1,3 +1,4 @@
 .env
 frozen_lake_env
 __pycache__
+node_modules
